@@ -1,6 +1,6 @@
 # Hey there, I'm Julian Agudelo 👋
 
-🌍 Colombia 🇨🇴 | I like turning real-world problems into simple, efficient tools
+Colombia 🇨🇴 | I like turning real-world problems into simple, efficient tools
 
 **Full-Stack Developer | JavaScript & Node.js | Express, MongoDB & Firebase | AI-assisted development**
 
