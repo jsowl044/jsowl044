@@ -2,11 +2,11 @@
 
 Colombia 🇨🇴 | I like turning real-world problems into simple, efficient tools
 
-**Full-Stack Developer | JavaScript & Node.js | Express, MongoDB & Firebase | AI-assisted development**
+**Full-Stack Developer | JavaScript & Node.js | Express | PostgreSQL, Oracle & MongoDB | AI-assisted development**
 
 I'm a full-stack developer who enjoys building software that solves concrete, everyday problems. I like taking an idea from a blank page to a working product: modeling the data, building the backend, and shaping an interface that people can actually use.
 
-My work so far is centered on JavaScript and Node.js. On the backend I build REST APIs with Express and choose the storage that fits each problem, from MongoDB for flexible documents to SQLite for lightweight structured data and Firebase for cloud sync. On the frontend I favor lean, framework-free code: fast to load, easy to maintain, and installable as a PWA with offline support.
+My work so far is centered on JavaScript and Node.js. On the backend I build REST APIs with Express and choose the storage that fits each problem: relational databases such as PostgreSQL and Oracle for structured, transactional data, MongoDB for flexible documents, SQLite for lightweight local storage, and Firebase for cloud sync. On the frontend I favor lean, framework-free code: fast to load, easy to maintain, and installable as a PWA with offline support.
 
 I'm especially interested in domain-heavy software, where getting the rules right matters. I like validating my work against real-world data, and I care about privacy: some of my tools run fully offline and never store anything on a server.
 
@@ -35,7 +35,8 @@ Outside of work, I enjoy building personal projects, experimenting with new idea
 
 🗄️ Databases & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
 </p>
 
 🤖 AI-Assisted Development
