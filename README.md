@@ -16,10 +16,10 @@ Outside of work, I enjoy building personal projects, experimenting with new idea
 
 ## 🚀 Featured Projects
 
-- **[Declaración de Renta (Colombia)](https://github.com/jsowl044/declaracion-renta)** — Calculator for the Colombian personal income tax return (DIAN Formulario 210). Imports the DIAN *exógena* report, works 100% offline without storing anything, and exports the result to Excel. Validated field by field against real filed returns.
-- **[Flashcards PWA](https://github.com/jsowl044/flashCards)** — Installable study app with spaced-repetition queues, deck import/export, offline support through a Service Worker, and optional cloud sync with Firebase (Google sign-in + Firestore).
-- **[Product Catalog App](https://github.com/jsowl044/taller-catalogo-productos)** — Full-stack catalog with Express, MongoDB and SQLite (polyglot persistence), image uploads and a sale/promotion flag.
-- **[Minesweeper](https://github.com/jsowl044/Minesweeper)** — Multiplayer Minesweeper with real-time play over WebSockets and a Node.js game server.
+- **[Declaración de Renta (Colombia)](https://github.com/jsowl044/calculadora-declaracion-renta)** — Calculator for the Colombian personal income tax return (DIAN Formulario 210). Imports the DIAN *exógena* report, works 100% offline without storing anything, and exports the result to Excel. Validated field by field against real filed returns, with an automated test suite, CI and a sample file with made-up data.
+- **[Flashcards PWA](https://github.com/jsowl044/flashCards)** ([live demo](https://flash-cards-theta-steel.vercel.app/)) — Installable study app with spaced-repetition queues, deck import/export, offline support through a Service Worker, and optional cloud sync with Firebase (Google sign-in + Firestore). Vanilla JavaScript modules, 90 unit tests and CI.
+- **[Product Catalog App](https://github.com/jsowl044/catalogo-productos)** — Full-stack product catalog: Express REST API on SQLite, an admin page to create, edit and delete products, and a sale/promotion flag.
+- **[Minesweeper](https://github.com/jsowl044/Minesweeper)** — Multiplayer Minesweeper over WebSockets. The Node.js server owns the board (mines are never sent to the client) and anyone with a room link can watch a game live.
 
 ## Technologies & Tools
 
